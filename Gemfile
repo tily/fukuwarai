@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+gem "haml"
+gem "nokogiri"
+gem "sinatra"
+gem "thor"
+gem "rack"
+gem "shotgun"
