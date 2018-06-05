@@ -11,5 +11,4 @@ docker-compose run --rm app thor organize
 
 # run web service
 docker-compose up -d
-
 ```
